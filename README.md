@@ -1,8 +1,8 @@
 # 📝 Entrega do Exercício 01 - Programação Web
 
-- **Aluno:** [ Seu Nome Completo ]
-- **Turma:** [ Sua Turma ]
-- **Data de Entrega:** [ DD/MM/AAAA ]
+- **Alunas:** [ Leticia e laura ]
+- **Turma:** [ 103 internet]
+- **Data de Entrega:** [ 01/10/2026 ]
 
 ---
 **Professor responsável:** @eduardo97mendes
